@@ -11,7 +11,6 @@ class Artist
 
   @@artists = []
 
-
   def self.all
     @@artists
   end
